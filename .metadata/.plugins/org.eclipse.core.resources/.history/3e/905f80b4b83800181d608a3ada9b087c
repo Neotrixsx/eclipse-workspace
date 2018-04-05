@@ -1,0 +1,7 @@
+
+public class MacBookPro extends MACBook {
+	@Override
+	void start() {
+		System.out.println("inside macbookpro start method");
+	}
+}

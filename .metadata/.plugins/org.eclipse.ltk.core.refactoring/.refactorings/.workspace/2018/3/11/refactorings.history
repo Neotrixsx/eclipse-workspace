@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;AccessModifier&apos;" deleteContents="true" description="Delete resource &apos;AccessModifier&apos;" element1="/AccessModifier" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1520935091620"/>
+</session>

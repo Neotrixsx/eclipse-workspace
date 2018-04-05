@@ -1,0 +1,12 @@
+
+public class MacBookAir extends MACBook {
+	@Override
+	void start() {
+		System.out.println("inside macbookair start method");
+	}
+
+	@Override
+	void shutdown() {
+		System.out.println("inside macbookair shutdown method");
+	}
+}
