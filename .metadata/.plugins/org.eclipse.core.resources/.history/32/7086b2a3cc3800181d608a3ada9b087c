@@ -3,26 +3,23 @@ package com.emc.test;
 import com.emc.entities.Event;
 import com.emc.entities.Organizer;
 import com.emc.managers.EventManager;
-//import com.emc.managers.EventManagerImpl;
-import com.emc.managers.EventManagerImpl2;
+import com.emc.managers.EventManagerImpl;
 
 public class Test {
 	public static void main(String[] args) {
 		Organizer organizer = new Organizer();
 		organizer.setId(123l);
 		organizer.setName("Applica inc.");
-
+		
 		System.out.println(organizer);
 		System.out.println(organizer.getName());
-
-		Event event = new Event(4542l, "Iphone 100 Launch", "Grand Launch");
+		
+		Event event = new Event(4542l,"Iphone 100 Launch", "Grand Launch");
 		System.out.println(event.getDescription());
-
-		// EventManager em = new EventManagerImpl();
-		EventManager em = new EventManagerImpl2();
+		
+		
+		EventManager em= new EventManagerImpl();
 		System.out.println(em.create(465l).getId());
-		System.out.println(em.create(465l).getName());
-		System.out.println(em.create(465l).getDescription());
-
+		
 	}
 }

@@ -18,11 +18,9 @@ public class Test {
 		Event event = new Event(4542l, "Iphone 100 Launch", "Grand Launch");
 		System.out.println(event.getDescription());
 
-		// EventManager em = new EventManagerImpl();
+//		EventManager em = new EventManagerImpl();
 		EventManager em = new EventManagerImpl2();
 		System.out.println(em.create(465l).getId());
-		System.out.println(em.create(465l).getName());
-		System.out.println(em.create(465l).getDescription());
 
 	}
 }
