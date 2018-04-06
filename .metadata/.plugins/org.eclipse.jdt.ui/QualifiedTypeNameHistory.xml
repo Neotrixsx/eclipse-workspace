@@ -1,4 +1,40 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="p1.A"/>
+<fullyQualifiedTypeName name="ThreeSerise"/>
+<fullyQualifiedTypeName name="CompileTimeBinding"/>
+<fullyQualifiedTypeName name="Applelaptop"/>
+<fullyQualifiedTypeName name="MACBook"/>
+<fullyQualifiedTypeName name="MacBookPro"/>
+<fullyQualifiedTypeName name="MacBookAir"/>
+<fullyQualifiedTypeName name="Customer"/>
+<fullyQualifiedTypeName name="com.emc.entities.Organizer"/>
+<fullyQualifiedTypeName name="java.lang.Boolean"/>
+<fullyQualifiedTypeName name="com.emc.entities.EMBase"/>
+<fullyQualifiedTypeName name="com.emc.managers.EventManager"/>
+<fullyQualifiedTypeName name="com.emc.managers.EventManagerImpl"/>
+<fullyQualifiedTypeName name="com.emc.entities.Event"/>
+<fullyQualifiedTypeName name="com.emc.managers.EventManagerImpl2"/>
+<fullyQualifiedTypeName name="org.omg.CORBA.INTERNAL"/>
+<fullyQualifiedTypeName name="Outofbound"/>
+<fullyQualifiedTypeName name="NullPointer"/>
+<fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+<fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
+<fullyQualifiedTypeName name="java.io.FileInputStream"/>
+<fullyQualifiedTypeName name="java.lang.Character"/>
+<fullyQualifiedTypeName name="checked.CheckedException"/>
+<fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+<fullyQualifiedTypeName name="javax.management.RuntimeErrorException"/>
+<fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="customexception.UncheckedException"/>
+<fullyQualifiedTypeName name="customexception.CheckedException"/>
+<fullyQualifiedTypeName name="multithereding.singlethered"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="multithereding.jointmethod"/>
 </qualifiedTypeNameHistroy>
